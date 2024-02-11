@@ -140,7 +140,7 @@ blockquote p {
 
 header {
   background-color: rgba(73, 88, 110, 0.8);
-  background: url('c:\Users\Lenovo\Documents\GitHub\portfolio\public\nasa--hI5dX2ObAs-unsplash.jpg') center/cover no-repeat;
+  background: url('e:\pf\portfolio\public\nasa--hI5dX2ObAs-unsplash.jpg') center/cover no-repeat;
   grid-column: 2 / span 5;
   padding: 4rem;
   margin-bottom: var(--spacing);
@@ -421,7 +421,7 @@ footer p {
 
 #myBtn {
 
-  background-image: url('C:\Users\Lenovo\Documents\GitHub\portfolio\public\up.png');
+  background-image: url('e:\pf\portfolio\public\up.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
