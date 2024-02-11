@@ -108,9 +108,8 @@ const App = () => {
         <div class="about-content">
           <div class="text-content">
             <h2>About.</h2>
-            <p class="intro"><strong>B</strong>ioinformatician and web whisperer, building bridges between the language of life and the digital world.</p>
-            <p class="description">A MSc graduate student who identifies himself as a scientific enthusiast and desires to pursue a career in life sciences, development,
-              and analysis. Currently looking for opportunities in data-driven roles to develop my skills and problem-solving attributes by being part of a dedicated and motivated team.</p>
+            <p class="intro"><strong>A</strong>web-savvy bioinformatician who connects the dots between digital and biological domains.</p>
+            <p class="description">As a MSc graduate student with a passion for science, I aspire to work in the fields of life sciences, development, and analysis. I am seeking data-driven roles that will challenge me to enhance my skills and problem-solving abilities in a collaborative and dynamic team.</p>
           </div>
           <div class="image-content">
 
